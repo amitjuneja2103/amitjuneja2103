@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/amitjuneja21" target="blank"><img src="https://img.shields.io/twitter/follow/amitjuneja21?logo=twitter&style=for-the-badge" alt="amitjuneja21" /></a> </p>
 
-- 🌱 I’m currently learning **React, Salesforce**
+- 🌱 I’m currently learning **SpringBoot, Java, Vue3, SQL**
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **amitjuneja21032000@gmail.com**
 
